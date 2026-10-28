@@ -1,0 +1,8 @@
+{
+  "name": "SchoolOS — Multi-Tenant School & Institute Platform",
+  "description": "Enterprise multi-tenant educational website platform and CMS for schools, colleges, and institutes with visual page builder, admissions, bilingual Bangla/English support, and role-based portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
